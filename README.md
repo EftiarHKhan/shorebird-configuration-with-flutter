@@ -1,0 +1,1 @@
+# shorebird-configuration-with-flutter
